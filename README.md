@@ -7,3 +7,5 @@ A nearly circulant matrix $A$ is a matrix that can be written in the form $A=M-N
 The SMW iteration is 
 $$x^{(k+1)}=M^{-1}(Nx^{(k)}+b)$$
 for $k=0,1,\dots$.
+
+For more information please see my website or the preprint https://arxiv.org/abs/2305.10968.
