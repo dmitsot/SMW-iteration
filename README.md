@@ -8,4 +8,4 @@ The SMW iteration is
 $$x^{(k+1)}=M^{-1}(Nx^{(k)}+b)$$
 for $k=0,1,\dots$.
 
-For more information please see my website or the preprint https://arxiv.org/abs/2305.10968.
+For more information please see https://www.dmitsotakis.com/ or the preprint https://arxiv.org/abs/2305.10968.
